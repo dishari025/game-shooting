@@ -29,6 +29,4 @@ I have created this using HTML,CSS and JavaScript.
 Press **Spacebar** to attack with **Huge Weapon**
 
 
-## Author
 
-msdiansh
